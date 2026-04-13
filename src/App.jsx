@@ -692,7 +692,7 @@ export default function App() {
           </R>
           <R delay={2}>
             <div className="cta-btns">
-              <a href="mailto:hello@yourname.com" className="btn btn-fill">
+              <a href="navedrana982@gmail.com" className="btn btn-fill">
                 Start a conversation <span className="btn-arr">↗</span>
               </a>
               <a href="#work" className="btn btn-line">
